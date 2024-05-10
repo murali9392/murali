@@ -22,7 +22,7 @@ Hey there! I'm Murali Naik, a passionate learner and aspiring developer excited 
 ## Let's Connect!
 Let's embark on this coding journey together! Feel free to connect with me:
 
-- [LinkedIn](www.linkedin.com/in/murali-naik-516764266)
+- [LinkedIn](https://www.linkedin.com/in/murali-naik-516764266)
 - [Email](bukkemurali850@gmail.com)
 
 <!-- Footer -->
