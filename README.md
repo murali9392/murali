@@ -1,4 +1,4 @@
-# murali
+# Murali
 <!-- Title -->
 # Welcome to My GitHub Profile! 👋
 
